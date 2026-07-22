@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: b2ebf08dc7664a644abebb6a3c4a3c20
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329792
+  packageName: Physics pickup system
+  packageVersion: 1.0.4
+  assetPath: Assets/Houidisoft technology/Pickup system/Scripts/Editor/PickableAutoAdder.cs
+  uploadId: 920116

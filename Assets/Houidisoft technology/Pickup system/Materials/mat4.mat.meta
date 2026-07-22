@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e8a8eac1c756d394da45082f38839428
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329792
+  packageName: Physics pickup system
+  packageVersion: 1.0.4
+  assetPath: Assets/Houidisoft technology/Pickup system/Materials/mat4.mat
+  uploadId: 920116

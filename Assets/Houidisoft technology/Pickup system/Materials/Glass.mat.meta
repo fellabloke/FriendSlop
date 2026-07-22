@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7572e15925ef1e540aed04449ecbbe32
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329792
+  packageName: Physics pickup system
+  packageVersion: 1.0.4
+  assetPath: Assets/Houidisoft technology/Pickup system/Materials/Glass.mat
+  uploadId: 920116
