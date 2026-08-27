@@ -91,7 +91,6 @@ public class FirstPersonMovement : NetworkBehaviour
         rb.useGravity = false;
     }
 
-
     public void PrepareDriver()
     {
         rb.isKinematic = true;

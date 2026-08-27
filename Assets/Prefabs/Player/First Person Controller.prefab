@@ -290,10 +290,9 @@ MonoBehaviour:
   driverSeatLayer:
     serializedVersion: 2
     m_Bits: 64
-  driverSeat: {fileID: 0}
   enterSeatButton: {fileID: 494887749001486742, guid: 35582de57c6837d4797291cc026e3f9d, type: 3}
   exitSeatButton: {fileID: -1236587774299900826, guid: 35582de57c6837d4797291cc026e3f9d, type: 3}
-  playerTransform: {fileID: 1386134524553529711}
+  playerTransform: {fileID: 0}
   cameraTransform: {fileID: 7195067468249766685}
   rayMaxDistance: 4
 --- !u!1 &1156161874467852479

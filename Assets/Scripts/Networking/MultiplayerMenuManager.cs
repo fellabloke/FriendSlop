@@ -81,8 +81,6 @@ public class MultiplayerMenuManager : NetworkBehaviour
         
         GameManager.Instance.ChangeState(GameManager.GameState.inGame);
         
-        // Feed the generic string to the manager.
-        // The local generic hook will automatically sweep up the Menu once this finishes loading.
         SceneManagement.Instance.LoadScene(firstGameplayScene);
     }
 }

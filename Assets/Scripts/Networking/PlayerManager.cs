@@ -141,7 +141,6 @@ public class PlayerManager : NetworkBehaviour
         playerMovement.UnprepareDriver();
         mouseLook.LockCursor();
         
-
         mouseLook.enabled = true;
         playerMovement.enabled = true;
         jump.enabled = true;

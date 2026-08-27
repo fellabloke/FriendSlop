@@ -53,6 +53,8 @@ public class GameManager : NetworkBehaviour
                 break;
             case GameState.inGame:
                 break;
+            case GameState.Testing:
+                break;
         }
     }
 }
